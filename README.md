@@ -10,6 +10,4 @@ Welcome to my GitHub space! Here's a little about me:
 
 - 📫 How to reach me: Feel free to connect with me via email at jiahaoli0465@gmail.com or Dm me on linkedin!
 
-#### <h3 style="display: inline;">📊 Some GitHub Stats I Guess? </h3><h4 style="display: inline; font-size: smaller;"></h4>
 
-![Jiahao Li](https://github-readme-stats.vercel.app/api?username=jiahaoli0465&show_icons=true&theme=tokyonight)
