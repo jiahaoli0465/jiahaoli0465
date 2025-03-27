@@ -2,9 +2,8 @@
 
 Welcome to my GitHub space! Here's a little about me:
 
-- 👀 I’m interested in Software Engineering and problem-solving, I'm currently working at [**Wealth Inc**](https://www.wealth.com) as an SWE intern, where I work multiple areas of the application using primarily React, Typescript, Apollo/GraphQl, C#, and developing with the AWS cdk for our infrastructures. I'm also joining [**LinkedIn**](https://www.linkedin.com/) next summer as a SWE intern.
+- 👀 I’m interested in Software Engineering and problem-solving, I'm currently working at [**LinkedIn**](https://www.linkedin.com/) as an SWE intern, where I work in distributed systems and infrastructure. I'm also joining [**Wealth Inc**](https://www.wealth.com) full time during my senior year of college.
 
-- 🌱 I’m currently enhancing my skills in cloud computing, working on the AWS Cloud Practitioner Certificate. I graduated from [**SpringBoard Software Engineering Bootcamp**](https://www.springboard.com/landing/software-engineering-career-track), dedicating over an additional **35 hours a week** for 8 months to sharpen my coding skills on top of school (why? I was bored). I'm also majoring in **CS** & **Applied Math** @ **Brandeis**!
 
 - 📫 How to reach me: Feel free to connect with me via email at jiahaoli0465@gmail.com or Dm me on linkedin!
 
